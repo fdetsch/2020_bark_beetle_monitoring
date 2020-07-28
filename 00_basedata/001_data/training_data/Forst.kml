@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Forst</name>
+	<gx:CascadingStyle kml:id="__managed_style_2F98AA5F2814BCA824FC">
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>4.8</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<displayMode>hide</displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_15A0491C0814BCA824FC">
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>3.2</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<displayMode>hide</displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_056ECCC03114BCA824FC">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_15A0491C0814BCA824FC</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_2F98AA5F2814BCA824FC</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark id="09607FABBB14A8068C57">
+		<name>Hesselbach</name>
+		<LookAt>
+			<longitude>11.36443798830653</longitude>
+			<latitude>50.31868028933303</latitude>
+			<altitude>571.8276193531839</altitude>
+			<heading>5.596075773720713e-09</heading>
+			<tilt>44.99878494285041</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>453.5334698721272</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_056ECCC03114BCA824FC</styleUrl>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						11.36469826575393,50.31818008831743,575.423228973532 11.36507736550138,50.31799882887897,577.4775362419507 11.36511209393273,50.31788839033897,574.5892777019632 11.36519860293781,50.31783740547392,574.7759680348511 11.36534187644469,50.31784447254073,577.2813209045653 11.3654342194652,50.31796722958649,581.1372615812176 11.36498784000199,50.31826704847851,579.4571457093277 11.36469826575393,50.31818008831743,575.423228973532 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark id="01DDA49C2914BCAE38A5">
+		<name>Gesundfläche</name>
+		<LookAt>
+			<longitude>11.36555030394065</longitude>
+			<latitude>50.31760982781926</latitude>
+			<altitude>576.1553022441794</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30</gx:fovy>
+			<range>548.1193059409999</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_056ECCC03114BCA824FC</styleUrl>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						11.36605624602874,50.31757232866006,577.8379803626148 11.36671170454969,50.31799370114918,573.3368534536468 11.36584751823003,50.3185149175014,571.1592210875518 11.36501924964115,50.31827363865118,579.8927089288876 11.36605624602874,50.31757232866006,577.8379803626148 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+</Document>
+</kml>
