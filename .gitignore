@@ -2,3 +2,5 @@
 .Rhistory
 .RData
 .Ruserdata
+00_basedata/001_data/sentinel-2
+01_analysis/0101_data/sentinel-2
