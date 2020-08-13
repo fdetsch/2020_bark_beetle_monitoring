@@ -2,7 +2,7 @@
 <kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
 <Document>
 	<name>Forst</name>
-	<gx:CascadingStyle kml:id="__managed_style_2F98AA5F2814BCA824FC">
+	<gx:CascadingStyle kml:id="__managed_style_272100F2B614CC0AE1BE">
 		<Style>
 			<IconStyle>
 				<scale>1.2</scale>
@@ -25,7 +25,7 @@
 			</BalloonStyle>
 		</Style>
 	</gx:CascadingStyle>
-	<gx:CascadingStyle kml:id="__managed_style_15A0491C0814BCA824FC">
+	<gx:CascadingStyle kml:id="__managed_style_1BA720AC0E14CC0AE1BE">
 		<Style>
 			<IconStyle>
 				<Icon>
@@ -47,14 +47,14 @@
 			</BalloonStyle>
 		</Style>
 	</gx:CascadingStyle>
-	<StyleMap id="__managed_style_056ECCC03114BCA824FC">
+	<StyleMap id="__managed_style_0DDEEB2C6B14CC0AE1BE">
 		<Pair>
 			<key>normal</key>
-			<styleUrl>#__managed_style_15A0491C0814BCA824FC</styleUrl>
+			<styleUrl>#__managed_style_1BA720AC0E14CC0AE1BE</styleUrl>
 		</Pair>
 		<Pair>
 			<key>highlight</key>
-			<styleUrl>#__managed_style_2F98AA5F2814BCA824FC</styleUrl>
+			<styleUrl>#__managed_style_272100F2B614CC0AE1BE</styleUrl>
 		</Pair>
 	</StyleMap>
 	<Placemark id="09607FABBB14A8068C57">
@@ -69,7 +69,7 @@
 			<range>453.5334698721272</range>
 			<altitudeMode>absolute</altitudeMode>
 		</LookAt>
-		<styleUrl>#__managed_style_056ECCC03114BCA824FC</styleUrl>
+		<styleUrl>#__managed_style_0DDEEB2C6B14CC0AE1BE</styleUrl>
 		<Polygon>
 			<outerBoundaryIs>
 				<LinearRing>
@@ -92,12 +92,35 @@
 			<range>548.1193059409999</range>
 			<altitudeMode>absolute</altitudeMode>
 		</LookAt>
-		<styleUrl>#__managed_style_056ECCC03114BCA824FC</styleUrl>
+		<styleUrl>#__managed_style_0DDEEB2C6B14CC0AE1BE</styleUrl>
 		<Polygon>
 			<outerBoundaryIs>
 				<LinearRing>
 					<coordinates>
 						11.36605624602874,50.31757232866006,577.8379803626148 11.36671170454969,50.31799370114918,573.3368534536468 11.36584751823003,50.3185149175014,571.1592210875518 11.36501924964115,50.31827363865118,579.8927089288876 11.36605624602874,50.31757232866006,577.8379803626148 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark id="009421484814CC0AE16F">
+		<name>NWR Ramschleite</name>
+		<LookAt>
+			<longitude>11.323241025876</longitude>
+			<latitude>50.39255813269011</latitude>
+			<altitude>491.775118654912</altitude>
+			<heading>7.647562497449489e-11</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>11151.28448070609</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0DDEEB2C6B14CC0AE1BE</styleUrl>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						11.29403963434685,50.3821477821022,559.2502472836848 11.29804304732122,50.38096807153882,494.8758377702426 11.3028434536775,50.38289729644986,538.3051533498614 11.30029498818809,50.38902937121129,523.7504311352104 11.2949951546699,50.39800141697298,594.9945155397568 11.28706754031127,50.39926479535743,567.7769320356014 11.28220463127911,50.39785196217068,609.6725817164203 11.27977556014278,50.39389582655522,654.260671956186 11.27960700226932,50.38939731180829,610.633722678746 11.28477509797748,50.38696670009304,596.021437846416 11.28868522104058,50.38731376827301,593.6862498807116 11.29403963434685,50.3821477821022,559.2502472836848 
 					</coordinates>
 				</LinearRing>
 			</outerBoundaryIs>
